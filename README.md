@@ -29,140 +29,44 @@
 <!-- ============ SKILLS ============ -->
 ## 🛠 Skills
 
-<!--
-  ハイブリッド構成:
-  - 主要スタックは skillicons.dev（theme=dark）のアイコングリッドで表示（ゲーミング映え＆行数削減）
-  - skillicons 未収録（RSpec / Stripe / GMO PG / Jira / Trello / Backlog / Redmine / Esa / Xcode）は
-    shields.io flat-square で補完（色は style-guide の技術カテゴリ色に準拠）
--->
-
 **言語 / フレームワーク — Languages & Frameworks**
 
-[![Languages & Frameworks](https://skillicons.dev/icons?i=ruby,rails,vue,js,html,css,java,swift&theme=dark)](https://skillicons.dev)
-
-![Slim](https://img.shields.io/badge/Slim-9FB0C0?style=flat-square&labelColor=131A24)
-![ERB](https://img.shields.io/badge/ERB-FF5277?style=flat-square&labelColor=131A24)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Slim](https://img.shields.io/badge/Slim-000000?style=flat-square&logo=slim&logoColor=white)
+![ERB](https://img.shields.io/badge/ERB-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 **DB / インフラ — Database & Infra**
 
-[![Database & Infra](https://skillicons.dev/icons?i=mysql,docker&theme=dark)](https://skillicons.dev)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **テスト / 決済 — Testing & Payments**
 
-![RSpec](https://img.shields.io/badge/RSpec-FFCB3D?style=flat-square&logo=ruby&logoColor=white&labelColor=131A24)
-![Stripe](https://img.shields.io/badge/Stripe-A78BFA?style=flat-square&logo=stripe&logoColor=white&labelColor=131A24)
-![GMO PG](https://img.shields.io/badge/GMO_PG_(3DS2.0)-A78BFA?style=flat-square&labelColor=131A24)
+![RSpec](https://img.shields.io/badge/RSpec-AB1F26?style=flat-square&logo=ruby&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![GMO PG](https://img.shields.io/badge/GMO_PG_(3DS2.0)-2C5DA8?style=flat-square)
 
 **ツール / Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
-
-![Jira](https://img.shields.io/badge/Jira-6DB5FF?style=flat-square&logo=jira&logoColor=white&labelColor=131A24)
-![Backlog](https://img.shields.io/badge/Backlog-6DB5FF?style=flat-square&logo=backlog&logoColor=white&labelColor=131A24)
-![Trello](https://img.shields.io/badge/Trello-6DB5FF?style=flat-square&logo=trello&logoColor=white&labelColor=131A24)
-![Redmine](https://img.shields.io/badge/Redmine-6DB5FF?style=flat-square&logo=redmine&logoColor=white&labelColor=131A24)
-![Esa](https://img.shields.io/badge/Esa-6DB5FF?style=flat-square&logo=esa&logoColor=white&labelColor=131A24)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Backlog](https://img.shields.io/badge/Backlog-42818C?style=flat-square&logo=backlog&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Redmine](https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white)
+![Esa](https://img.shields.io/badge/Esa-13A4B4?style=flat-square&logo=esa&logoColor=white)
 
 **モバイル / Mobile**
 
-[![Mobile](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://skillicons.dev)
-
-![Xcode](https://img.shields.io/badge/Xcode-6DB5FF?style=flat-square&logo=xcode&logoColor=white&labelColor=131A24)
-
-<!-- ============ CAREER ============ -->
-## ⚔ 経歴 / CAREER
-
-> Ruby / Rails を軸にした約9年の歩み（新しい順）。各案件を**クリックで開く**と担当業務の詳細が出ます。
-
-<!--
-  ネオンの見た目は assets/career/*.svg（外部 SVG 画像）で表現。
-  GitHub の Markdown は inline CSS / <style> / <script> をサニタイズするため、
-  <img> で参照する外部 SVG なら glow(filter) も配色も生きる。
-  各案件は details / summary 要素で開閉。summary 内の img がカード（閉じた状態）。
--->
-
-<details>
-  <summary>
-    <img src="assets/career/2022-cloud-access.svg" alt="2022 → NOW｜クラウド型入退室管理システム — API開発・テスト・コードレビュー（Ruby / Rails / Vue.js / RSpec / MySQL）" width="760" />
-  </summary>
-
-  **担当業務**
-  - Ruby / Rails での API コーディング
-  - Vue.js 製画面の保守
-  - RSpec でのテストコーディング
-  - API 設計書などのドキュメント作成
-  - コードレビュー
-
-</details>
-
-<details>
-  <summary>
-    <img src="assets/career/2021-crowdfunding.svg" alt="2021｜クラウドファンディング SaaS — クレカ決済 3DS2.0 導入(GMO)・DB設計（Ruby / Rails / ERB / RSpec / GMO PG）" width="760" />
-  </summary>
-
-  **担当業務**
-  - Ruby / Rails / ERB でのコーディング
-  - クレジットカード決済の 3DS2.0 導入（GMO）
-  - RSpec でのテストコーディング
-  - 新規機能開発に伴う DB テーブル設計
-  - テスト仕様書などのドキュメント作成
-  - コードレビュー
-
-</details>
-
-<details>
-  <summary>
-    <img src="assets/career/2020-car-flea-market.svg" alt="2020｜自動車フリマアプリ — API開発・DB設計・新人へのRails指導（Ruby / Rails / Slim / RSpec / Docker）" width="760" />
-  </summary>
-
-  **担当業務**
-  - Ruby / Rails での API コーディング
-  - RSpec でのテストコーディング
-  - 新規機能開発に伴う DB テーブル設計
-  - IF仕様書・結合テスト仕様書などのドキュメント作成
-  - 新規参画者への Ruby / Rails コーディング指導
-  - API ソースのコードレビュー
-
-</details>
-
-<details>
-  <summary>
-    <img src="assets/career/2018-rpa.svg" alt="2018｜Windows 向け RPA — オンライン決済実装(Stripe)（Ruby / Rails / Slim / RSpec / Stripe）" width="760" />
-  </summary>
-
-  **担当業務**
-  - Ruby / Rails での API ソースコーディング
-  - RSpec でのテストコーディング
-  - オンライン決済機能の実装
-  - IF仕様書・画面などのドキュメント作成
-
-</details>
-
-<details>
-  <summary>
-    <img src="assets/career/2017-school-lunch.svg" alt="2017｜給食管理システム — コーディング・コードレビュー（Ruby / Rails / ERB / MySQL）" width="760" />
-  </summary>
-
-  **担当業務**
-  - Ruby / Rails / ERB でのコーディング
-  - 他 PG 2名のコードレビュー
-  - 画面仕様書・テスト仕様書などのドキュメント作成
-
-</details>
-
-<details>
-  <summary>
-    <img src="assets/career/2016-receipt-coupon.svg" alt="2016 START｜レシートクーポン管理アプリ — 管理画面・バッチ処理・Android/iOS バグ修正（Ruby / Rails / ERB / Java / Swift）" width="760" />
-  </summary>
-
-  **担当業務**
-  - Ruby / Rails / ERB での管理画面コーディング
-  - 各種バッチタスク（ランキング集計など）作成
-  - Android・iOS のバグ修正
-  - PO やデザイナーからの要求分析
-  - 運用マニュアル・テスト仕様書などのドキュメント作成
-
-</details>
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 <!-- ============ 受けられる案件 ============ -->
 ## 💼 受けられる案件
