@@ -69,7 +69,9 @@ Ruby一本で生きてきましたが、AIの発達で出来ることの幅が�
 <!-- ============ 受けられる案件 ============ -->
 ## 💼 What I Can Do
 
-**Ruby / Rails の案件なら、なんでもやります。**
+**Ruby / Rails の案件なら、なんでも対応します。**
+
+Ruby 以外でも、下記のような開発はお任せください👇
 
 - 🏢 コーポレートサイト
 - ⚙️ 業務システム
@@ -89,6 +91,7 @@ Ruby一本で生きてきましたが、AIの発達で出来ることの幅が�
 <!-- ============ CONTACT ============ -->
 ## 📫 Contact
 
+[![X](https://img.shields.io/badge/X-@kaoruby__-a855f7?style=for-the-badge&logo=x&logoColor=white&labelColor=160a22)](https://x.com/kaoruby_)
 [![Email](https://img.shields.io/badge/Email-kaoru__gumi__company%40icloud.com-ec4899?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=160a22)](mailto:kaoru_gumi_company@icloud.com)
 
 <p align="center">
